@@ -15,4 +15,4 @@ Leave a ⭐ on the repo if you found it helpful !
 
 ![test1](001172.jpg)
 
-![test2](001173.jpg)
+![test2](001175.jpg)
