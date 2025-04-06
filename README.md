@@ -8,6 +8,7 @@ Example Windows: C:\Program Files\Steam\userdata\<your ID>\2218750\remote
 Make a backup of your save and then open in the application, edit the values and then click on save, it will overwrite the save data and then you can place the changed save file in your save location
 
 IMPORTANT: MAKE A BACKUP SAVEFILE BEFOREHAND IN ORDER TO PREVENT ACCIDENTAL OVERWRITES
+Requires Godot 2.4 
 
 Leave a ⭐ on the repo if you found it helpful !
 
