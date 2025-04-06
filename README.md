@@ -9,6 +9,6 @@ Make a backup of your save and then open in the application, edit the values and
 
 IMPORTANT: MAKE A BACKUP SAVEFILE BEFOREHAND IN ORDER TO PREVENT ACCIDENTAL OVERWRITES
 
-![https://github.com/SushruthRao/TormentSaveEditor/blob/main/001172.jpg]
+![001172.jpg]
 
-![https://github.com/SushruthRao/TormentSaveEditor/blob/main/001173.jpg]
+![001173.jpg]
